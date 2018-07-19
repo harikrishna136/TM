@@ -1,3 +1,2 @@
-﻿Public Class UserControl1
-
+﻿Public Class UserControl
 End Class
